@@ -1,6 +1,6 @@
-name: "my-website"
+name: "Citi-bike"
 navbar:
-  title: "My Website"
+  title: "Citi-bike"
   left:
     - text: "Home"
       href: index.html
